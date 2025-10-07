@@ -1,0 +1,28 @@
+id_cols: [player_id, player, draft_year]
+target_col: outcome_tier
+
+numeric_features:
+  - college_pts
+  - college_ast
+  - college_reb
+  - college_stl
+  - college_blk
+  - college_tov
+  - college_3pa
+  - college_3p%
+  - college_ts%
+  - college_bpm
+  - college_ws
+  - height_in
+  - weight_lbs
+  - age_on_draft
+  - draft_pick
+  - draft_round
+  - position_onehot_PG
+  - position_onehot_SG
+  - position_onehot_SF
+  - position_onehot_PF
+  - position_onehot_C
+
+standardize: true
+impute_strategy: median

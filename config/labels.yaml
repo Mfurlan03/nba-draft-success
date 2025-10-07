@@ -1,0 +1,28 @@
+horizon_seasons: 8
+
+tiers:
+  Superstar:
+    any_of:
+      - all_nba_teams: ">= 1"
+      - all_star_selections: ">= 2"
+    or:
+      - win_shares: ">= 60"
+  Star:
+    any_of:
+      - all_star_selections: ">= 1"
+    or:
+      - win_shares: ">= 40"
+      - bpm: ">= 3.0"
+  Starter:
+    all_of:
+      - minutes_per_game: ">= 28"
+      - games_played: ">= 350"
+    or:
+      - win_shares: ">= 25"
+  Role Player:
+    any_of:
+      - games_played: ">= 200"
+      - win_shares: ">= 10"
+  Bust:
+    fallback: true
+priority_order: [Superstar, Star, Starter, Role Player, Bust]
