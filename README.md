@@ -1,4 +1,4 @@
-# MIE368 — Predicting NBA Draft Success with ML
+# Predicting NBA Draft Success with ML
 
 This project classifies NBA draft prospects into qualitative career outcome tiers (Superstar, Star, Starter, Role Player, Bust) using college performance metrics, physical/athletic attributes, and draft metadata. We compare interpretable baselines (e.g., Random Forest) with a neural network to assess gains from nonlinear modeling.
 
