@@ -30,6 +30,6 @@ See directory tree in the root of this README.
   - `python scripts/evaluate.py`
 
 ## Team
-- Michael Furlano (1008072899)
-- Mikhael Saikaly (1008811127)
-- Hryhorii Ovcharenko (1008776371)
+- Michael Furlano 
+- Mikhael Saikaly 
+- Hryhorii Ovcharenko 
