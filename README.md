@@ -47,24 +47,24 @@ Key findings:
 - Most misclassifications occur between adjacent career tiers
 
 Modeling Pipeline (`final_master`)
-## Two-Stage Approach
+# Two-Stage Approach
 
-# Stage 1 — Regression
+## Stage 1 — Regression
 Predicts early-career NBA performance using pre-draft features:
 - PER
 - BPM
 - Win Shares
 - VORP
-Models:
+## Models:
 Ridge Regression (baseline)
 - LightGBM Regressor (nonlinear interactions)
 Out-of-fold predictions are passed to Stage 2 to reduce noise.
 
-# Stage 2 — Classification
+## Stage 2 — Classification
 Classifies players into long-term career tiers using:
 - Original pre-draft features
 - Predicted early-career metrics from Stage 1
-# Model: 
+### Model: 
 - CatBoost Classifier 
   -  Handles categorical features
   -  Robust to class imbalance
