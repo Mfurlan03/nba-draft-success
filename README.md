@@ -87,7 +87,7 @@ These results demonstrate that pre-draft data contains meaningful predictive str
 - A structured two-stage model mirrors real front-office evaluation workflows
 - Analytics can complement, not replace, traditional scouting
 
-##Authors
+## Authors
 - Michael Furlano
 - Mikhael Saikaly
 - Hryhorii Ovcharenko
