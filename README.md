@@ -13,34 +13,34 @@ Using a two-stage machine learning pipeline, we model early-career NBA performan
 The goal is not to replace traditional scouting, but to determine whether historical pre-draft data contains consistent, objective signals that can support better draft decision-making.
 
 .
-├── data_cleaning/
-│   ├── College_and_Combine.ipynb
-│   ├── Intersection_of_NBA_and_College.ipynb
-│   └── player_ids.csv
+├── data_cleaning/                # Data integration & preprocessing
+│   ├── College_and_Combine.ipynb          # Merge NCAA stats with NBA Combine data
+│   ├── Intersection_of_NBA_and_College.ipynb  # Resolve player overlap & identity matching
+│   └── player_ids.csv                     # Cross-source player ID mapping
 │
-├── eda_analysis/
-│   ├── EDA_Analysis.ipynb
-│   └── NBA_Stats.ipynb
+├── eda_analysis/                 # Exploratory data analysis & validation
+│   ├── EDA_Analysis.ipynb                 # Missingness, distributions, correlations
+│   └── NBA_Stats.ipynb                    # Career outcome statistics & sanity checks
 │
-├── stat_scraper/
-│   ├── cbb_player_stat_scraper.ipynb
-│   ├── bbr_player_stat_scraper.ipynb
-│   └── raw_stat_outputs.csv
+├── stat_scraper/                 # Raw data collection
+│   ├── cbb_player_stat_scraper.ipynb      # NCAA (College Basketball Reference) scraper
+│   ├── bbr_player_stat_scraper.ipynb      # NBA (Basketball Reference) scraper
+│   └── raw_stat_outputs.csv               # Scraped raw statistics
 │
-├── final_master/
-│   ├── Label_NBA.ipynb
-│   ├── modeling_pipeline.ipynb
-│   └── final_datasets.csv
+├── final_master/                 # Labeling & modeling pipeline
+│   ├── Label_NBA.ipynb                    # Career outcome labeling (8-year window)
+│   ├── modeling_pipeline.ipynb            # Two-stage ML pipeline (LightGBM + CatBoost)
+│   └── final_datasets.csv                 # Model-ready dataset
 │
-├── deliverables/
+├── deliverables/                 # Academic & presentation outputs
 │   ├── Project_Proposal.pdf
 │   ├── Preliminary_Report.pdf
 │   ├── Final_Report.pdf
 │   ├── Abstract.pdf
 │   └── Presentation_Slides.pdf
 │
-├── NBA_Draft_Models_Guide.pdf
-└── README.md
+├── NBA_Draft_Models_Guide.pdf     # High-level explanation of models & methodology
+└── README.md                      # Project overview and documentation
 
 ## Data Sources
 This project integrates multiple publicly available basketball datasets:
