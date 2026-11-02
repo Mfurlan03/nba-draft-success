@@ -1,0 +1,409 @@
+player,predicted_tier,tier_score
+charles jenkins,Superstar,2.5947806572265484
+norris cole,Superstar,2.335542082852967
+keith benson,Star,2.251171259753289
+jarnell stokes,Star,2.23371858483731
+trae young,Superstar,2.2115536404324065
+reed sheppard,Starter,2.207226504494153
+taylor hendricks,Starter,2.186097912005504
+jalen smith,Star,2.18568146005729
+neemias queta,Star,2.17991633606035
+landry shamet,Superstar,2.1711935078457376
+mfiondu kabengele,Star,2.144577684770604
+andrew nicholson,Star,2.142877962444458
+zeke nnaji,Starter,2.13975157533714
+jevon carter,Superstar,2.1305965507442806
+grant williams,Star,2.1259315355183883
+jabari walker,Star,2.1257674670014066
+marshon brooks,Star,2.117320418368578
+charles bassey,Star,2.1170695889101063
+pierre jackson,Superstar,2.1155427137851057
+kyle filipowski,Star,2.0849222893065966
+walker kessler,Starter,2.0791628156174196
+nate wolters,Superstar,2.0423198727779774
+cleanthony early,Star,2.040472652608909
+robbie hummel,Star,2.0277671924559866
+drew gordon,Star,2.0259076378236744
+drew timme,Star,2.009970750148311
+adama sanogo,Starter,2.0046352876809523
+oscar tshiebwe,Star,2.004310700449924
+zach edey,Star,1.9895232455989786
+justin champagnie,Starter,1.987169539123302
+miles mcbride,Starter,1.9842428218947616
+terrence jones,Starter,1.9807036631123331
+bol bol,Star,1.9795516877983026
+jonathan mogbo,Starter,1.9775090939474351
+donovan clingan,Star,1.9764877123143427
+bruno fernando,Star,1.9761724098281637
+henry ellenson,Star,1.9716352567731135
+nolan smith,Bust,1.9713966794235178
+orlando robinson,Star,1.9701973895162634
+brandon davies,Star,1.964739770146707
+enrique freeman,Star,1.9597034657217987
+zach collins,Star,1.9576144284358472
+ivan rabb,Star,1.954365589458468
+jeff withey,Starter,1.9436369036976822
+shai gilgeous-alexander,Starter,1.941241847823813
+david roddy,Star,1.9326116504549136
+vince hunter,Star,1.9323701991789997
+nathan knight,Star,1.9321064761608895
+trayce jackson-davis,Star,1.9260841417401169
+ty jerome,Starter,1.91846104577396
+tari eason,Starter,1.9160671720122062
+miles bridges,Star,1.9147909260077003
+jajuan johnson,Star,1.9037621462617316
+travis leslie,Starter,1.902399147001871
+kadeem allen,Starter,1.8967352433847098
+jordan mickey,Role Player,1.8883419957592227
+arnett moultrie,Starter,1.886414886782024
+justin patton,Starter,1.885074683344092
+trey thompkins,Starter,1.881003195278045
+omari spellman,Starter,1.8765317304281712
+tacko fall,Star,1.8725712601497675
+johnathan motley,Role Player,1.8681140495651316
+orlando johnson,Role Player,1.8661044363748538
+yante maten,Star,1.8648938552988912
+jesse edwards,Starter,1.8622085561297164
+chris singleton,Starter,1.8615173363746957
+michael frazier,Starter,1.8556231541531578
+jordan mcrae,Role Player,1.853138152231526
+shamorie ponds,Role Player,1.8488321499386844
+christian koloko,Starter,1.846255952562286
+marcus sasser,Role Player,1.8454572008763408
+oshae brissett,Role Player,1.8450725622251425
+mouhamed gueye,Star,1.8337173691227726
+moses moody,Starter,1.8316513211987737
+kenrich williams,Starter,1.831097072693461
+ron baker,Starter,1.8303679232406596
+precious achiuwa,Starter,1.8295701100026864
+killian tillie,Starter,1.8278244753860808
+cameron oliver,Starter,1.825399297325537
+keita bates-diop,Starter,1.8224839225588705
+pj hall,Role Player,1.8197658930684955
+quinten post,Star,1.819137674619579
+erik murphy,Starter,1.8142333301975255
+branden dawson,Starter,1.8136921514386501
+jacob evans,Starter,1.8133165811801186
+cory jefferson,Starter,1.8079781425092385
+john jenkins,Role Player,1.8074113239599516
+moses wright,Role Player,1.804805916266146
+jontay porter,Starter,1.8036575421054746
+sean kilpatrick,Starter,1.8003144702500105
+james southerland,Starter,1.7982205880980173
+chimezie metu,Role Player,1.7980631465882682
+rondae hollis-jefferson,Starter,1.7871372730852522
+devon dotson,Starter,1.779091761950351
+luka garza,Star,1.7784324499547217
+adreian payne,Role Player,1.7751732659257136
+justin anderson,Starter,1.7731893947771584
+tyler honeycutt,Role Player,1.7687249082609433
+jordan adams,Bust,1.765344506848165
+zhaire smith,Starter,1.765100666440857
+josh okogie,Starter,1.7590114344152699
+jared sullinger,Bust,1.7572960038739172
+toumani camara,Role Player,1.7562732003295982
+denzel valentine,Starter,1.7527461172445642
+joel bolomboy,Star,1.750393035031433
+keyontae johnson,Starter,1.746587585779047
+kris joseph,Starter,1.7455880775637733
+carrick felix,Role Player,1.7438297882580869
+tyler herro,Starter,1.7435332615014771
+jarace walker,Starter,1.7421102637695536
+royce white,Bust,1.7418965351597597
+omer yurtseven,Role Player,1.7385814106455255
+thomas welsh,Role Player,1.7372225350128043
+brandon paul,Starter,1.7310692798498355
+quincy acy,Starter,1.730552882503051
+miles plumlee,Role Player,1.7201420616698475
+justin harper,Star,1.7183368893615771
+allen crabbe,Starter,1.715327937737703
+jake laravia,Starter,1.7147820670810265
+kennedy chandler,Role Player,1.7146839295137024
+perry jones,Role Player,1.713001764338788
+keon ellis,Starter,1.707208987758431
+chris mccullough,Starter,1.7055866545711649
+bobi klintman,Role Player,1.7005895451143433
+tyler lydon,Starter,1.6940168562376576
+talen horton-tucker,Role Player,1.6926600889837995
+jordan bell,Starter,1.6926162899870942
+lamar stevens,Role Player,1.6900003344758336
+gradey dick,Starter,1.6899412149621422
+jawun evans,Bust,1.6816457165236103
+hamidou diallo,Starter,1.6740961617890127
+bennedict mathurin,Starter,1.6736486873602279
+julian champagnie,Starter,1.6716034128285193
+kyle wiltjer,Star,1.6682111424276198
+jaylin williams,Role Player,1.6672345769362718
+russ smith,Role Player,1.6670241064745588
+dillon jones,Starter,1.6656348904015927
+sandro mamukelashvili,Role Player,1.6645107688167973
+jamaal franklin,Role Player,1.6635254246761684
+kostas antetokounmpo,Role Player,1.6629676239659907
+marquese chriss,Role Player,1.6617668310647196
+nassir little,Role Player,1.655798187985187
+daquan jeffries,Role Player,1.6542779705809867
+tyler ulis,Role Player,1.6526119401089256
+andre roberson,Starter,1.642783915553285
+isaiah whitehead,Role Player,1.6421628866094136
+tyler ennis,Role Player,1.640620812467544
+naz reid,Role Player,1.634465985264127
+lamar patterson,Starter,1.6311516709888272
+ziaire williams,Role Player,1.6311313883183782
+jericho sims,Role Player,1.6284231562210905
+alec peters,Role Player,1.6265601806368917
+brandon clarke,Bust,1.625268417658791
+adonis thomas,Role Player,1.6251573443499001
+isaiah mobley,Role Player,1.6246684610270123
+jt thor,Role Player,1.6239833816571045
+jalen bridges,Starter,1.6209449829147058
+khyri thomas,Starter,1.6200442040952423
+jordan nwora,Starter,1.6199658226286975
+kobe bufkin,Starter,1.613012034425395
+sindarius thornwell,Starter,1.612629170345432
+rakeem christmas,Role Player,1.6093377668971551
+jalen mcdaniels,Starter,1.6089358902182596
+chinanu onuaku,Starter,1.6088737958753487
+romeo langford,Starter,1.608063420064786
+cameron bairstow,Role Player,1.6057956665387376
+kyle singler,Starter,1.6056209388278935
+markel brown,Starter,1.6052066343572073
+kessler edwards,Role Player,1.6042518506783867
+quinndary weatherspoon,Starter,1.604230906990765
+sam hauser,Starter,1.6010289191089397
+corey kispert,Starter,1.5952699828153565
+terence davis,Starter,1.5942783292205753
+sam dekker,Bust,1.5910695477360728
+seth lundy,Role Player,1.59051138338745
+jeremiah robinson-earl,Starter,1.5903503599767537
+jared butler,Role Player,1.5891610343166558
+dariq whitehead,Starter,1.5864004800803313
+tyler bey,Starter,1.5814145851134644
+hollis thompson,Starter,1.581212367633197
+moritz wagner,Role Player,1.580033190165715
+kris murray,Role Player,1.5789909849657102
+cameron johnson,Role Player,1.5770880247041548
+vander blue,Role Player,1.5748383785069437
+johnny juzang,Role Player,1.5746231320874908
+shabazz napier,Starter,1.5742496150542646
+yves pons,Role Player,1.5737008348616341
+bronny james,Role Player,1.5698694749049307
+jaylon tyson,Role Player,1.5691502652369738
+oso ighodaro,Role Player,1.5666794020171388
+jarrett culver,Bust,1.5664413712287226
+scottie lewis,Starter,1.5664011689202169
+semi ojeleye,Starter,1.5598916355350143
+wade baldwin,Starter,1.5593722691598737
+chris livingston,Role Player,1.5515101500605053
+jarrod uthoff,Starter,1.5513554987856741
+malachi richardson,Role Player,1.5513276334148385
+trevon duval,Role Player,1.5489352962945024
+aaron wiggins,Starter,1.5485058869478632
+jalen johnson,Role Player,1.547395229454241
+ignas brazdeikis,Starter,1.5470364640994962
+grant jerrett,Role Player,1.5468084764959336
+scottie barnes,Starter,1.546527602055381
+mamadi diakite,Role Player,1.546500846915221
+james bouknight,Starter,1.545892858862982
+quincy miller,Role Player,1.541713420037714
+jared mccain,Starter,1.5413505123266813
+dylan windler,Starter,1.540266389237344
+reece beekman,Role Player,1.5388504441163622
+nickeil alexander-walker,Starter,1.5381041694493567
+nik stauskas,Role Player,1.5374001476062635
+jaden springer,Role Player,1.5373276711216086
+joe wieskamp,Starter,1.53705403022724
+jalen slawson,Role Player,1.5346388591293472
+nick johnson,Starter,1.5343619480360857
+miye oni,Role Player,1.531119297417123
+henry sims,Role Player,1.529558229228794
+amari bailey,Role Player,1.5290815012759824
+aaron harrison,Starter,1.5264335033644216
+pj dozier,Role Player,1.5249140793927405
+emoni bates,Role Player,1.524593109304209
+melvin frazier,Starter,1.5245571591749398
+grant riller,Role Player,1.5226500161778103
+josh christopher,Starter,1.5225677615410242
+jake layman,Role Player,1.5206546533347782
+cj elleby,Role Player,1.520396870732347
+jerian grant,Role Player,1.5179948093752733
+peyton watson,Role Player,1.516485872418232
+kevin huerter,Role Player,1.516420250106571
+carsen edwards,Role Player,1.5150112382843786
+tyrell terry,Bust,1.512901006947241
+stephon castle,Role Player,1.510964133354119
+grayson allen,Role Player,1.5093087773454348
+kobe brown,Role Player,1.5082976537884867
+maxwell lewis,Role Player,1.5053137897212545
+caleb swanigan,Role Player,1.5043716288724747
+tre mann,Role Player,1.5039568968716228
+cam whitmore,Starter,1.5030548384394775
+kevin hervey,Role Player,1.4972867488961161
+ryan dunn,Role Player,1.4938847683333576
+jalen wilson,Role Player,1.4938580043908756
+erick green,Role Player,1.4934518063551514
+treveon graham,Role Player,1.4927863865642288
+trent forrest,Role Player,1.488789510722917
+ben sheppard,Role Player,1.4856844042565944
+caleb martin,Role Player,1.48452874862173
+olivier-maxence prosper,Role Player,1.4831472428020747
+cody martin,Role Player,1.4829974464450046
+kim english,Role Player,1.4828421105288676
+edmond sumner,Starter,1.4827207739521318
+quentin grimes,Starter,1.4778006202501701
+elijah hughes,Role Player,1.4763422252326701
+donte divincenzo,Role Player,1.4761807058070935
+kj simpson,Role Player,1.4752978717780159
+isaiah hicks,Role Player,1.467801564355534
+austin reaves,Role Player,1.4668682905416137
+jaylen wells,Role Player,1.4652874962682196
+jamal shead,Role Player,1.4647910266477262
+mason jones,Starter,1.464444609140409
+rawle alkins,Starter,1.4638304075469288
+admiral schofield,Role Player,1.4630920179690021
+cody williams,Role Player,1.4584565981361566
+terance mann,Role Player,1.4574242565513456
+adem bona,Starter,1.4534939454026807
+joshua primo,Role Player,1.4495457535918734
+kyle guy,Role Player,1.447586673878299
+deandre liggins,Role Player,1.4471062105571815
+isaiah joe,Role Player,1.446926484455338
+christian braun,Starter,1.4465887919322722
+kevin knox,Role Player,1.444966813844064
+markus howard,Role Player,1.4429250803667997
+george king,Role Player,1.4423259505081265
+eric paschall,Role Player,1.4376634688260648
+jd davison,Role Player,1.4339356230216653
+kyshawn george,Role Player,1.4337357671633872
+jordan walsh,Role Player,1.4326915357563406
+darius miller,Starter,1.4324794053803107
+allonzo trier,Role Player,1.4313526751570123
+marcus bagley,Role Player,1.4295846281657412
+davon reed,Starter,1.4295192338167788
+anthony black,Bust,1.4286959011038542
+isaiah briscoe,Role Player,1.426833713503198
+devin carter,Role Player,1.4265479647314063
+alize johnson,Bust,1.4258879447837376
+andrew goudelock,Bust,1.420824196796962
+ben bentil,Role Player,1.4176482246988604
+raiquan gray,Role Player,1.4149167764285941
+jordan poole,Role Player,1.4133927236902903
+keshad johnson,Role Player,1.413228298474335
+michael gbinije,Role Player,1.4130316615038931
+tyler kolek,Bust,1.409716543794866
+davion mitchell,Role Player,1.4071635181637432
+cassius stanley,Role Player,1.4020369279424973
+immanuel quickley,Role Player,1.3973106759258427
+ochai agbaji,Starter,1.395754029108558
+pelle larsson,Role Player,1.3933322002300421
+phil pressey,Role Player,1.3916727435261358
+luguentz dort,Role Player,1.390632142933481
+devin robinson,Role Player,1.3891120149629654
+jarell martin,Role Player,1.3878391828298262
+jalen pickett,Bust,1.3857037678358126
+blake wesley,Role Player,1.3837629570482939
+jalen brunson,Role Player,1.3795994510032172
+josh selby,Role Player,1.376799342559496
+alondes williams,Role Player,1.3752274031689087
+aj johnson,Role Player,1.3747705576625648
+isaiah roby,Role Player,1.3746294561983825
+julian strawther,Role Player,1.3744929711395077
+tony wroten,Bust,1.3713851730036133
+devon hall,Role Player,1.3709054727257837
+cam spencer,Starter,1.3707459406582596
+jaron blossomgame,Role Player,1.3687133366882336
+ty-shon alexander,Role Player,1.3685892553390033
+aaron henry,Role Player,1.3677877856176823
+marcus paige,Role Player,1.3677784425064001
+naji marshall,Role Player,1.367470413916768
+trendon watford,Role Player,1.3661335679286957
+lorenzo brown,Bust,1.3649990299102113
+dwayne bacon,Role Player,1.3639094295205731
+james young,Starter,1.3613162989882954
+cassius winston,Role Player,1.3577976770191207
+carlik jones,Bust,1.3566944565203278
+johnny furphy,Role Player,1.356247915705446
+isaiah livers,Role Player,1.3560939184024068
+colby jones,Starter,1.3557766952901862
+brandin podziemski,Role Player,1.355000851504431
+jordan hawkins,Role Player,1.3536064335110771
+dereon seabron,Role Player,1.34550254909621
+kai jones,Role Player,1.3452530693837783
+cason wallace,Bust,1.3442229220507236
+collin gillespie,Role Player,1.3429619280152227
+kendall brown,Starter,1.342185670438721
+marial shayok,Role Player,1.341023855074782
+ayo dosunmu,Bust,1.3388682312350395
+doron lamb,Role Player,1.3388394108404449
+wayne selden,Role Player,1.3377600833332923
+shabazz muhammad,Role Player,1.3376746994889075
+daniel hamilton,Bust,1.3351481881460234
+louis king,Role Player,1.3325216358825271
+harrison ingram,Role Player,1.3308994449490261
+ashton hagans,Role Player,1.3293269080504597
+kobi simmons,Role Player,1.3289572180875364
+skylar mays,Role Player,1.3283503753705408
+baylor scheierman,Bust,1.3279731699599358
+archie goodwin,Role Player,1.3254208162396497
+quinn cook,Role Player,1.3241836143736812
+patrick mccaw,Starter,1.3223165909722192
+dalton knecht,Role Player,1.3219152832637224
+peyton siva,Role Player,1.3173324235847856
+coby white,Role Player,1.3144513325405325
+theo pinson,Role Player,1.3101602954311895
+damyean dotson,Role Player,1.3101532093300738
+jordan hamilton,Role Player,1.308403383820796
+myles powell,Role Player,1.3014196123519823
+shane larkin,Role Player,1.3011605451331145
+ky bowman,Bust,1.2997523194649168
+keldon johnson,Starter,1.2965554743012702
+isaiah canaan,Role Player,1.296136063102105
+trey alexander,Role Player,1.2959958590274205
+collin sexton,Bust,1.2956020236213848
+max christie,Role Player,1.2953102087380715
+terquavion smith,Role Player,1.2945515180998617
+malaki branham,Role Player,1.2895888299159517
+jordan miller,Role Player,1.286930812551114
+derrick walton,Bust,1.285253289621966
+jamel artis,Role Player,1.2821140233654906
+adam flagler,Role Player,1.2799355845152154
+andrew harrison,Role Player,1.2708873546122326
+tyler cook,Role Player,1.270625379931265
+ryan rollins,Role Player,1.2692890976775497
+tristen newton,Bust,1.2683411462118082
+jaylen clark,Starter,1.2636392760790527
+trevor keels,Role Player,1.2627594425609259
+bryce mcgowens,Role Player,1.2614656458522469
+scotty hopson,Role Player,1.2599923455678228
+jordan bone,Role Player,1.259396114557112
+jalen hood-schifino,Role Player,1.2576347936665568
+cam christie,Role Player,1.253712783775112
+tyler dorsey,Role Player,1.2493412074201204
+tremont waters,Bust,1.24552531351853
+dalen terry,Role Player,1.240151285550423
+antonio reeves,Role Player,1.2338185174085745
+julian phillips,Role Player,1.2305917288164478
+rashad vaughn,Role Player,1.2131576141176774
+isaiah collier,Role Player,1.2108391517082595
+kendall marshall,Role Player,1.2083822422048545
+jalen harris,Role Player,1.189101380114032
+semaj christon,Role Player,1.1867542204213613
+nigel williams-goss,Bust,1.181804491072232
+malcolm lee,Role Player,1.1794404573766881
+marquis teague,Role Player,1.176784477324829
+ajay mitchell,Role Player,1.173251439723081
+malik newman,Role Player,1.1613056688772012
+tyshawn taylor,Role Player,1.1562916645031813
+scott machado,Bust,1.1505789419968786
+jaylen nowell,Role Player,1.1450743203669873
+kevin murphy,Role Player,1.1126961761017156
+darius morris,Bust,1.110212852825112
+aaron holiday,Role Player,1.100153030513829
+jason preston,Bust,1.0967551957454433
+deonte burton,Role Player,1.088007198683823
+isaiah wong,Role Player,1.0872600102181522
+andrew nembhard,Role Player,1.0837026322296337
+jabari brown,Role Player,1.0698479826920104
+chasson randle,Role Player,1.04833935790002
+keon johnson,Role Player,1.029447818385374
+darius johnson-odom,Role Player,0.9646076333565865
+keifer sykes,Bust,0.9378053331287325

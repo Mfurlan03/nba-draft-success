@@ -1,0 +1,29 @@
+{
+  "n_labeled": 109,
+  "label_counts": {
+    "Bust": 18,
+    "Role Player": 31,
+    "Starter": 34,
+    "Star": 20,
+    "Superstar": 6
+  },
+  "cv": "5x repeated stratified 5-fold",
+  "best_model": "random_forest",
+  "best_features": "compact_a_priori",
+  "best_cv": {
+    "macro_f1_mean": 0.20421375154606283,
+    "macro_f1_std": 0.02154678193526595,
+    "balanced_acc_mean": 0.21349947290744256,
+    "balanced_acc_std": 0.020893585562311422,
+    "qwk_mean": 0.1420184154591845,
+    "qwk_std": 0.034188886208609104,
+    "within_1_tier_mean": 0.7155963302752294,
+    "within_1_tier_std": 0.017163565994375865
+  },
+  "permutation_test": {
+    "metric": "qwk",
+    "observed": 0.0895975702353835,
+    "p_value": 0.27450980392156865,
+    "n_permutations": 50
+  }
+}
